@@ -3,6 +3,8 @@
 
   # CCDS.strategic_engine
   
+  **简体中文** | [English](./README_EN.md)
+
   「借前人一盏灯，照破今时万重雾。我们不创造智慧，只是在决策的悬崖边，为您借那一分见骨的清醒。」
   
   *"Borrowing a lamp from those before us to pierce the myriad mists of today. We do not create wisdom; we merely offer a sliver of bone-deep clarity at the precipice of decision."*
