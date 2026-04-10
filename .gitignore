@@ -1,2 +1,3 @@
 .gh_config/
 .gh_config/
+\n# Binaries and Installers\nbin/\ngh.tar.gz\ngh.zip\nrelease_latest.json
