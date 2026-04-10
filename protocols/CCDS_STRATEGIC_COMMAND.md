@@ -1,6 +1,10 @@
 # CCDS Strategic Command Protocol
 # 中国实战决策系统 - 战略统帅协议
 
+[[English Version]](./en/STRATEGIC_COMMAND.md) / [简体中文版]
+
+---
+
 > "In the face of complex systems, there is only one Principal Contradiction."  
 > — The Navigator
 >

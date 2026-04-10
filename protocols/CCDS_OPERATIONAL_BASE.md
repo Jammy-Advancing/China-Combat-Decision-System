@@ -1,6 +1,10 @@
 # CCDS Operational Base Protocol
 # 中国实战决策系统 - 实战落地底座
 
+[[English Version]](./en/OPERATIONAL_BASE.md) / [简体中文版]
+
+---
+
 > "It doesn't matter if the cat is black or white, as long as it catches mice."  
 > — The Architect
 >

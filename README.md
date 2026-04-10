@@ -10,7 +10,7 @@
   [![MCP Supported](https://img.shields.io/badge/MCP-Compatible-orange.svg)](https://github.com/mcp)
   [![Strategic Level](https://img.shields.io/badge/Level-Master--Class-red.svg)](#)
 
-  [English](#) | [简体中文](#) | [日本語](#) | [한국어](#)
+  [English Documentation](./protocols/en/STRATEGIC_COMMAND.md) | [简体中文文档](./protocols/CCDS_STRATEGIC_COMMAND.md)
 </div>
 
 ---
@@ -28,11 +28,12 @@
 ### 🏮 1. Strategic Command (核心战略统帅)
 *   **Principal Contradiction Protocol**: Master the art of identifying the one factor that changes everything.
 *   **Asymmetric Advantage Logic**: Focus overwhelming force on critical nodes to ensure victory.
-*   **Risk Audit**: Systematic checks against strategic blind spots.
+*   [[English]](./protocols/en/STRATEGIC_COMMAND.md) | [[中文]](./protocols/CCDS_STRATEGIC_COMMAND.md)
 
 ### 🏗️ 2. Operational Base (实战落地底座)
 *   **Pragmatic ROI Engine**: Results-first execution logic. Filter out noise, focus on outcomes.
 *   **Pilot-Scale Deployment**: The "Stone-Prototype" algorithm for safe and iterative scaling.
+*   [[English]](./protocols/en/OPERATIONAL_BASE.md) | [[中文]](./protocols/CCDS_OPERATIONAL_BASE.md)
 
 ---
 
