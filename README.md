@@ -3,7 +3,9 @@
 
   # CCDS.strategic_engine
   
-  「实践是检验真理的唯一标准。与其伤其十指，不如断其一指。」
+  「借前人一盏灯，照破今时万重雾。我们不创造智慧，只是在决策的悬崖边，为您借那一分见骨的清醒。」
+  
+  *"Borrowing a lamp from those before us to pierce the myriad mists of today. We do not create wisdom; we merely offer a sliver of bone-deep clarity at the precipice of decision."*
 
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   [![Capability](https://img.shields.io/badge/Strategic-Skill-purple.svg)](#)
