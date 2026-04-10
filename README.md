@@ -38,7 +38,7 @@ In an era of agentic chaos, this engine provides the **Strategic Soul** (Maoism)
 ### MCP 接入 (即插即用)
 This repository is designed to be used as an **MCP (Model Context Protocol) Server**. 
 
-1. Clone the repo: `git clone https://github.com/yourname/Mao-Decision-Engine`
+1. Clone the repo: `git clone https://github.com/42kyx28zkf-ai/Mao-Decision-Engine`
 2. Configure your Claude Desktop or Cursor:
 ```json
 {
