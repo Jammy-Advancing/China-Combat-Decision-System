@@ -1,131 +1,78 @@
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="CCDS-Strategic-Banner" />
+  <img src="./assets/banner.png" width="100%" alt="CCDS-Banner" />
 
-  # China Combat Decision System (CCDS)
-  ### 顶级实战决策引擎 | The Sovereign Strategy Hub
+  # CCDS.strategic_engine
+  
+  「实践是检验真理的唯一标准。与其伤其十指，不如断其一指。」
 
-  **"Practical results are the only standard for truth. Leverage the minds of giants to command your reality."**
-
-  [![Strategic Level](https://img.shields.io/badge/Strategic%20Level-Master--Class-red.svg)](#)
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-  [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
-  [![MCP Supported](https://img.shields.io/badge/MCP-Compatible-orange.svg)](https://github.com/mcp)
+  [![Capability](https://img.shields.io/badge/Strategic-Skill-purple.svg)](#)
+  [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-orange.svg)](https://github.com/mcp)
 
-  [English](./protocols/en/STRATEGIC_COMMAND.md) | [简体中文](./protocols/CCDS_STRATEGIC_COMMAND.md)
+  <br/>
+
+  **让跨时代的 13 位战略统帅用他们的辩证法和第一性原理，帮你穿透迷雾、读懂现实。**
+  
+  **不是复读语录，是用他们看世界的方式帮你解决具体的决策毒点。**
+
+  <br/>
+
+  ### [看效果](#效果示例) · [安装](#快速安装) · [领袖蒸馏](./VISION_V2.md) · [主权边界](#主权边界)
+
 </div>
 
 ---
 
-## 🚩 Overview / 概览
+## 效果示例 | Demo
 
-**CCDS (China Combat Decision System)** is a world-class strategic orchestration framework. It translates the dialectical wisdom of **Top Strategists** and the pragmatic implementation of **Chief Designers** into high-fidelity AI protocols.
+### ⚔️ 场景一：商业激战与非对称打击
+**用户** ＞ 我现在的出海业务被头部厂家围剿，我是该烧钱对攻，还是撤退？
+**CCDS 统帅部 (毛泽东阵营)** ＞ 我就说一句话，你仔细听——如果你和他在他擅长的地盘对攻，那你就已经输了。**你打你的，我打我的。** 避开正面，寻找他的后勤软肋实时切入。逻辑链：`[04_权重]` 偏移，实施非对称打击。
 
-**中国实战决策系统 (CCDS)** 是一套顶级战略编排框架。它将中国顶级战略家的辩证智慧与现代商业/科技领袖的实战方法论转化为 AI 可调用的计算协议，为您的决策提供精准的“统帅级”导航。
+### 🚀 场景二：初创公司的“深水区”
+**用户** ＞ 我们的产品方向很多，团队天天吵架，现金流快断了，怎么办？
+**CCDS 统帅部 (邓小平阵营)** ＞ 不要争论方向。**猫论：抓到老鼠就是好猫。** 停止所有 PPT 级的论证。逻辑链：`[02_试错]` 协议，强制开启 14 天闭环实验，只看赚钱（ROI）这一个指标。
 
----
+### 🤖 场景三：AI 架构过度工程化
+**用户** ＞ 我的 AI Agent 架构越来越复杂，提示词几千行，迭代速度极慢。
+**CCDS 统帅部 (马斯克阵营)** ＞ 物理层面告诉我，你的架构中有 50% 是为了掩盖之前的错误。**删除它。最好的零件就是没有零件。** 逻辑链：`[05_熔断]` 重启，回归第一性原理，删除所有中间抽象层。
 
-## 🔥 Combat Matrix | 实战决策场景录
-
-CCDS 不做泛泛而谈的 AI 建议，我们针对以下**恶性痛点**提供领袖级的干预协议：
-
-### 1. 🚀 商业深水区：存量激战与决策止损
-- **痛点**：公司进入“盲目扩张期”，现金流收紧，团队在三个方向上反复拉锯，决策成本极高。
-- **干预**：调用 **[02_TRIAL_REFORM]**。遵循**邓小平**“猫论”——不争论方向，只看“捕鼠率”。
-- **动作**：强制冻结 70% 的边缘项目，选取一个“石头（Pilot Project）”进行为期 14 天的闭环实测。
-
-### 2. 🛡️ 个人主权：打破路径依赖与职业熵增
-- **痛点**：深陷低价值、高强度的“勤奋陷阱”，看不清主要矛盾，不敢进行战略放弃。
-- **干预**：调用 **[01_INVESTIGATION]**。遵循**毛泽东**《矛盾论》——“伤其十指，不如断其一指。”
-- **动作**：物理切断 80% 的干扰信息源，实施“饱和攻击”，将所有资源压在一个核心变量上。
-
-### 3. 🤖 AI 开发：重构幻觉与过度工程化
-- **痛点**：AI Agent 架构层层嵌套，Prompt 极度臃肿，产生的代码除了复杂一无是处。
-- **干预**：调用 **[05_ERROR_CORRECTION]**。遵循**马斯克**第一性原理——“最好的零件就是没有零件。”
-- **动作**：立即执行“负反馈熔断”，删除所有中间抽象层，强制 AI 回归最原始的物理逻辑。
-
-### 4. 📉 风险防御：沉没成本与反向审计
-- **痛点**：因为“已经投了太多钱/时间”而不敢撤退，导致全军覆没的风险。
-- **干预**：调用 **[04_ADVERSITY_WEIGHTS]**。遵循**查理·芒格**的反向思维——“我只想知道我会死在哪里，然后我永远不去那里。”
-- **动作**：建立“失败清单”，将风险参数权重上调 500%，强制触发“清算逻辑”。
+### 📉 场景四：决策时的心理偏见
+**用户** ＞ 我在这个项目上投了两年，现在数据很差，但我总觉得“再坚持一下”就能翻身。
+**CCDS 统帅部 (查理·芒格阵营)** ＞ 你在给你的沉没成本陪葬。**反过来想，总是反过来想。** 如果你今天刚刚接手这个项目，你会投一分钱吗？如果不投，那就现在砍掉。逻辑链：`[01_调查]` 反向审计，强制清算无效资产。
 
 ---
 
-## 🏛️ Strategic Guild | 战略公会 (13 人团)
+<div id="快速安装"></div>
 
-CCDS 整合了跨越时代的 13 位巅峰思想家，为不同维度的复杂困局提供算法背书：
+## 快速安装 | Setup
 
-| 战略阵营 / Archetype | 核心导师 / Masters | 实战赋能 / Value |
-| :--- | :--- | :--- |
-| **辩证主权 (Core)** | 毛泽东, 邓小平, 周恩来, 陈云 | 解决主要矛盾，摸着石头过河，构建实战底座。 |
-| **第一性与创新** | 马斯克, 乔布斯, Karpathy | 物理级还原真相，极致产品驱动，AI 工程化落地。 |
-| **资本与心智** | 查理·芒格, 李嘉诚, Naval | 建立心智格栅，锁定风险边际，利用杠杆放大收益。 |
-| **执行与进化** | 雷军, 马化腾, 马云, 段永平 | 中国式商业效率 SOP，灰度试错，通过未来推演现在。 |
-
----
-
-## 🏛️ Lineage / 思想溯源
-
-1.  **Strategic Soul (战略之魂)**：源自**毛泽东战略辩证法**。核心解决“看清方向”的问题。通过《矛盾论》定位主要矛盾。
-2.  **Operational Base (实战之基)**：源自**邓小平务实工程论**。核心解决“落地拿结果”的问题。秉持“猫论”的唯实标准。
-3.  **Modern Scale (现代演进)**：吸纳 **马斯克** 的第一性原理与 **查理·芒格** 的多元思维模型，实现跨行业的决策对齐。
-
----
-
-## 🏮 Combat Showcase | 实战效果演示
-
-<details>
-<summary><b>[LIFE] 个人突围：打破路径依赖 (点击展开)</b></summary>
-
-- **领袖思想**：**毛泽东** —— “伤其十指，不如断其一指。”
-- **逻辑**：强制调用 **[01_INVESTIGATION]** 协议，锁定唯一核心突破点，熔断 90% 次要分枝。
-</details>
-
-<details>
-<summary><b>[BUSINESS] 商业丛林：硬核生存与扩张 (点击展开)</b></summary>
-
-- **领袖思想**：**邓小平** —— “实践是检验真理的唯一标准。”
-- **逻辑**：调用 **[02_TRIAL_REFORM]** 协议，执行严格的“捕鼠率（ROI）审计”。
-</details>
-
-<details>
-<summary><b>[AI] 智械战争：算法统帅与对齐 (点击展开)</b></summary>
-
-- **领袖思想**：**马斯克** —— “第一性原理。去掉不必要的环节。”
-- **逻辑**：调用 **[04_ADVERSITY_WEIGHTS]** 协议，重置 Agent 职责权重，确立“最终责任位”。
-</details>
-
----
-
-## 🚀 Core Systems / 核心协议矩阵
-
-- **[01 调查]**：穿透虚假信息，提取物理真相 | [DOC][./protocols/v2/01_INVESTIGATION.md]
-- **[02 试错]**：不对称风险对冲，建立防火墙 | [DOC][./protocols/v2/02_TRIAL_REFORM.md]
-- **[03 平衡]**：处理多方博弈，构建最广泛同盟 | [DOC][./protocols/v2/03_COORDINATION.md]
-- **[04 权重]**：逆境重启系统，强制参数重置 | [DOC][./protocols/v2/04_ADVERSITY_WEIGHTS.md]
-- **[05 熔断]**：秒级复盘纠错，不二过算法 | [DOC][./protocols/v2/05_ERROR_CORRECTION.md]
-
----
-
-## 🛠 Usage / 使用方法 (MCP)
-
-1. **Quick Start**:
+1. **Clone**:
    ```bash
    git clone https://github.com/42kyx28zkf-ai/China-Combat-Decision-System
-   cd China-Combat-Decision-System
-   pip install -r requirements.txt
    ```
-
-2. **Server Configuration**:
+2. **Server (MCP)**:
+   将以下配置加入您的 Claude/Cursor 配置文件：
    ```json
    {
      "mcpServers": {
-       "ccds-engine": {
+       "ccds": {
          "command": "python3",
-         "args": ["/PATH/TO/China-Combat-Decision-System/mcp/server.py"]
+         "args": ["/PATH/TO/CCDS/mcp/server.py"]
        }
      }
    }
    ```
+
+---
+
+<div id="主权边界"></div>
+
+## 主权边界 | Governance
+
+- **唯实论**：不符合物理真相和实战结果的决策直接熔断。
+- **孤立性**：单次决策审计不干扰底层系统稳定性。
+- **最终判断**：CCDS 提供战略参考，人类统帅拥有最终发射权。
 
 ---
 
